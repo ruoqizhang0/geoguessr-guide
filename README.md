@@ -1,4 +1,4 @@
-# GeoGuessr 中文简体攻略
+# GeoGuessr 攻略
 
 欢迎来到 GeoGuessr 中文攻略站。
 
