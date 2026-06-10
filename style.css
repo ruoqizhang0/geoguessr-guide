@@ -30,3 +30,18 @@ a {
   color: #1f7a4d;
   font-weight: bold;
 }
+
+nav {
+  margin-top: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 18px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
